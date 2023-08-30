@@ -1,16 +1,20 @@
-### Hi there 👋
+## Fala ae! Sou Jean Pissineli 🤙
+Um entusiasta no estudo de Desenvolvimento web, Backend e Data Science.
 
-<!--
-**ojotape05/ojotape05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Sobre mim
+  - 💼 Estágiario de Desenvolvimento no Banestes
+  - 👯 Estou procurando colaborar em projetos freelance
+  - 📈 Desenvolvimento WEB, Database, Ciência de Dados e mais.
+  - ❤️ NodeJS e Python
+  - 🌱 Atualmente estou aprendendo ReactJS
+  - 📫 jpbpissineli05@gmail.com | 📞 +55 27 99795-2590
 
-Here are some ideas to get you started:
+#### Ferramentas e Tecnologias
+<img loading="lazy" height="35rem" width="35rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img loading="lazy" height="35rem" width="35rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img loading="lazy" height="35rem" width="35rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img loading="lazy" height="35rem" width="35rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+          
+          
+| ![Jeans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojotape05&show_icons=true&theme=merko) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojotape05&layout=compact) |
+| ------------- | ------------- |
