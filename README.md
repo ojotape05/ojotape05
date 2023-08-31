@@ -2,7 +2,7 @@
 Um entusiasta no estudo de Desenvolvimento web, Backend e Data Science.
 
 #### Sobre mim
-  - 💼 Estágiario de Desenvolvimento no Banestes
+  - 💼 Desenvolvedor no Banestes
   - 👯 Estou procurando colaborar em projetos freelance
   - 📈 Desenvolvimento WEB, Database, Ciência de Dados e mais.
   - ❤️ NodeJS e Python
