@@ -14,7 +14,7 @@ Um entusiasta no estudo de Desenvolvimento web, Backend e Data Science.
 <img loading="lazy" height="35rem" width="35rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img loading="lazy" height="35rem" width="35rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-## Projetos
+## Projetos a destacar
 #### TCC - Rede Social
 Projeto desenvolvido para trabalho escolar.<br>
 Durante meu curso de TI, desenvolvi uma rede social de receitas culinárias utilizando PHP e SQL e o Bootstrap para o Front.
