@@ -5,7 +5,7 @@ Um entusiasta no estudo de Desenvolvimento web, Backend e Data Science.
   - 💼 Desenvolvedor no Banestes
   - 👯 Estou procurando colaborar em projetos freelance
   - 📈 Desenvolvimento WEB, Database, Ciência de Dados e mais.
-  - ❤️ NodeJS e Python
+  - ❤️ NodeJS, SQL e Python
   - 🌱 Atualmente estou aprendendo ReactJS
   - 📫 jpbpissineli05@gmail.com | 📞 +55 27 99795-2590
 
