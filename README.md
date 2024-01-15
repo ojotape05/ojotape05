@@ -6,7 +6,7 @@ Um entusiasta no estudo de Desenvolvimento web, Backend e Data Science.
   - 👯 Estou procurando colaborar em projetos freelance
   - 📈 Desenvolvimento WEB, Database, Ciência de Dados e mais.
   - ❤️ NodeJS, SQL e Python
-  - 🌱 Atualmente estou aprendendo ReactJS
+  - 🌱 Atualmente estou aprendendo ReactJS e MongoDB
   - 📫 jpbpissineli05@gmail.com | 📞 +55 27 99795-2590
 
 ### Ferramentas e Tecnologias
