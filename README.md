@@ -32,7 +32,7 @@ Usei <b>PHP, MySQL e Bootstrap</b> para o FRONT.<br>
 Infelizmente não posso disponibilizar acesso ao código deste projeto, mas você pode navegar no site.<br>
 https://vendedores-sadrian.com.br/
 ##
-#### Sistema GECRI
+#### Sistema Banco Estadual do ES
 Projeto desenvolvido para o Banco Estadual do ES (Banestes).<br>
 Fizemos uma <b>CRUD com tratativas de regra de negócio, validações de entrada e controles de saída</b>. Além desses pontos, também há a necessidade de se adaptar a realidade do banco em relação a tecnologias utilizadas, uma limitação em relação ao desenvolvimento. Por isso, escolhemos tecnologias como <b>Handlebars, Postgresql e Express</b>, se adaptando ao que o banco tem de disponível.
 
