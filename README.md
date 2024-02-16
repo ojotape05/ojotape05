@@ -38,6 +38,11 @@ Fizemos uma <b>CRUD com tratativas de regra de negócio, validações de entrada
 
 Saiba mais em: https://github.com/ojotape05/SISTEMA-COCRI
 ##
+#### Projeto React
+Este projeto foi feito atráves de um curso que fiz em React JS, um <b>CRUD</b> com algumas aplicações dos <b>principais hooks</b>.
+Consiste em uma ferramente web para gerenciamento de projetos, adição de serviços, custos, orçamento, categoria e afins.
+
+Saiba mais em: [https://github.com/ojotape05/SISTEMA-COCRI](https://github.com/ojotape05/Costs-Projeto-React)
 
 | ![Jeans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojotape05&show_icons=true&theme=merko) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojotape05&layout=compact) |
 | ------------- | ------------- |
