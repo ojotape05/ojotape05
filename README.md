@@ -44,7 +44,7 @@ Consiste em uma ferramente web para gerenciamento de projetos, adição de servi
 
 Usei a biblioteca <b>json-server</b> para simular uma API, geralmente feita pelo <b>Express</b>.
 
-Saiba mais em: [https://github.com/ojotape05/SISTEMA-COCRI](https://github.com/ojotape05/Costs-Projeto-React)
+Saiba mais em: https://github.com/ojotape05/Costs-Projeto-React
 
 | ![Jeans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojotape05&show_icons=true&theme=merko) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojotape05&layout=compact) |
 | ------------- | ------------- |
