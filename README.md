@@ -42,7 +42,7 @@ Saiba mais em: https://github.com/ojotape05/SISTEMA-COCRI
 Este projeto foi feito atráves de um curso que fiz em React JS, um <b>CRUD</b> com algumas aplicações dos <b>principais hooks</b>.
 Consiste em uma ferramente web para gerenciamento de projetos, adição de serviços, custos, orçamento, categoria e afins.
 
-Usei a biblioteca <b>json-server</b> para simular uma API, geralmente feita pelo <b>Express</b>.
+Usei a biblioteca <b>json-server</b> para simular uma API, geralmente feita pelo <b>Express</b>.<br>
 Saiba mais em: https://github.com/ojotape05/Costs-Projeto-React
 
 | ![Jeans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojotape05&show_icons=true&theme=merko) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojotape05&layout=compact) |
