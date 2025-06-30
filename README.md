@@ -1,12 +1,12 @@
 ## Fala ae! Sou Jean Pissineli 🤙
-Um entusiasta no estudo de Desenvolvimento web, Backend e Data Science.
+Um entusiasta no estudo de Desenvolvimento de Soluções Escaláveis.
 
 ### Sobre mim
-  - 💼 Desenvolvedor no Banestes
-  - 👯 Estou procurando colaborar em projetos freelance
-  - 📈 Desenvolvimento WEB, Database, Ciência de Dados e mais.
-  - ❤️ NodeJS, SQL e Python
-  - 🌱 Atualmente estou aprendendo ReactJS e MongoDB
+  - 💼 Analista e Desenvolvedor de Sistemas
+  - 👯 Procuro colaborar em projetos open source, contratos e freelas.
+  - 📈 Desenvolvimento de Software, Soluções e Automações, IA e Ciência de Dados.
+  - ❤️ TypeScript, ReactJs, NodeJs, C#, .Net, Python.
+  - 🌱 Atualmente estou aprendendo .Net e Cloud Computing.
   - 📫 jpbpissineli05@gmail.com | 📞 +55 27 99795-2590
 
 ### Ferramentas e Tecnologias
